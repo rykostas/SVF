@@ -1,0 +1,8 @@
+[
+    {
+      "origin": ["https://svf-turkish.ew.r.appspot.com"],
+      "method": ["GET", "PUT"],
+      "responseHeader": ["HEADER"],
+      "maxAgeSeconds": 3600
+    }
+]
